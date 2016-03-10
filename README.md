@@ -15,12 +15,11 @@ Compiling all the datastrcutures we have studied
 <li>Stack Implementation with Linked List</li>
 <li>Queue Implementation with Linked List</li>
 <li>Dequeue</li>
-<li>Tress</li>
 <li>Binary Search</li>
 <li>Linear Search</li>
 <li>Bubble Sort</li>
 <li>Selection Sort</li>
-<li></li>
+<li>Tree Traversal</li>
 </ul>
 
 <b>To-be added:</b>

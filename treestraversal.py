@@ -28,6 +28,11 @@ def preorder(root):
 		print root.value
 		preorder(root.left)
 		preorder(root.right)
+def postorder(root):
+	if root:
+		postorder(root.left)
+		postorder(root.right)
+		print root.value
 
 r = Node(50)
 insert(r,Node(30))
@@ -39,3 +44,5 @@ insert(r,Node(80))
 inorder(r)
 print "\n"
 preorder(r)
+print "\n"
+postorder(r)
